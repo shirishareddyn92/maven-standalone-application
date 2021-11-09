@@ -1,0 +1,6 @@
+projectKey=com.mt:maven-stanalone-application
+serverUrl=http://65.0.108.136:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://65.0.108.136:9000/dashboard?id=com.mt%3Amaven-stanalone-application
+ceTaskId=AXzh49w7BfNBcPCrlh2A
+ceTaskUrl=http://65.0.108.136:9000/api/ce/task?id=AXzh49w7BfNBcPCrlh2A
